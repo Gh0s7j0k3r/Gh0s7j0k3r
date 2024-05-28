@@ -22,7 +22,4 @@
   
 <div> 
   <a href="https://www.linkedin.com/in/miguelmoises/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Gh0s7j0k3r/Gh0s7j0k3r/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
