@@ -18,10 +18,10 @@
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Miguel-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Miguel-Argo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg">
-  <img align="center" alt="Miguel-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Miguel-K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
+  <img align="center" alt="Miguel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Miguel-Argo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
+  <img align="center" alt="Miguel-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Miguel-K8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
 </div>
   
 ##
